@@ -11,7 +11,7 @@ import sys
 from tqdm import tqdm
 
 # ===================== 用户配置区域 =====================
-DEFAULT_TARGET_DIR = r"C:\Users\chru\Desktop\1"  # 需要扫描的zip文件目录
+DEFAULT_TARGET_DIR = r"C:\Users\chru\Downloads\comp"  # 需要扫描的zip文件目录
 WINRAR_PATH = r"C:\Program File\WinRAR\WinRAR.exe"  # WinRAR可执行文件路径
 # ======================================================
 
