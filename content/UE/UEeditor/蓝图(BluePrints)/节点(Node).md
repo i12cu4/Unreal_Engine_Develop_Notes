@@ -818,6 +818,33 @@ success (是否返回执行成功) -> 很重要的一点,若是没有设定,若�
 
 
 <details>
+<summary>Finterp To</summary>
+<pre><code>
+Finterp 是一种计算开销极低的非线性插值函数。
+
+其公式为：x = a + (b-a)*0.1（其中乘数 0.1 可替换为任意设定的速度系数）。
+
+核心原理：
+每次迭代时，函数会按剩余距离的固定比例（如 10%）向目标位置移动一小段，且随着距离缩短，移动量会逐渐减小（因剩余距离本身在变小）。
+
+时间参数的作用：
+函数需要通过 delta 参数（即上一帧/上一次计算的时间间隔）来标准化插值速度，如公式中的乘数需结合时间因子调整。
+
+关键用法：
+需要维护两个变量：
+当前位置（Current Position）
+目标位置（Target Position）
+将 当前位置 作为 Finterp 的输入参数 Current，同时用 Finterp 的输出结果通过 Set Current Position 节点更新 当前位置。
+
+效果：
+最终实现一种非线性、缓出（ease-out）风格的插值效果，且计算成本极低。
+</code></pre>
+</details>
+
+
+
+
+<details>
 <summary>Flip Flop</summary>
 <pre><code>
 奇次运行走A节点,偶次运行走B节点.

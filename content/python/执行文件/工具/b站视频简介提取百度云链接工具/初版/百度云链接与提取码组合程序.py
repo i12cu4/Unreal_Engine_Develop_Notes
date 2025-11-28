@@ -139,12 +139,21 @@ def main():
         return
     
     # 获取输出文件路径
-    output_path = input("请输入保存结果的txt文件路径(默认为当前目录下的baidu_links.txt): ").strip()
+    output_path = input("请输入保存结果的txt文件路径(默认为原文件名+baidu_links.txt): ").strip()
     
     if not output_path:
-        output_path = os.path.join(os.path.dirname(input_path), "baidu_links.txt")
+        # 获取输入文件的目录和完整文件名（包含扩展名）
+        input_dir = os.path.dirname(input_path)
+        input_filename = os.path.basename(input_path)
+        
+        # 生成新的输出文件名：原文件名（包含扩展名）+ "baidu_links.txt"
+        new_filename = f"{input_filename}baidu_links.txt"
+        output_path = os.path.join(input_dir, new_filename)
     elif os.path.isdir(output_path):
-        output_path = os.path.join(output_path, "baidu_links.txt")
+        # 如果用户输入的是目录，同样使用原完整文件名生成新文件名
+        input_filename = os.path.basename(input_path)
+        new_filename = f"{input_filename}baidu_links.txt"
+        output_path = os.path.join(output_path, new_filename)
     
     # 提取链接和提取码
     print("正在提取百度云链接和提取码...")

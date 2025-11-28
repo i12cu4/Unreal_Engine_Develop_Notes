@@ -1,0 +1,118 @@
+【最强加速神器】不止游戏、网盘，windows中所有软件都可以免费提速 | OpenSpeedy保姆级教学
+官网：https://github.com/game1024/OpenSpeedy
+网盘下载连接：https://pan.quark.cn/s/fad2c398b88b
+
+【保姆级教程】2025 年最强 Windows 桌面美化！效果炸裂！仅需两款免费软件，性能与颜值兼备！Seelen UI + Rainmeter
+官方网站: https://seelen.io
+官网下载: https://github.com/eythaann/Seelen-UI
+网盘下载：https://pan.quark.cn/s/166f1d8290dd
+官方网站: https://www.rainmeter.net/
+官网下载: https://github.com/rainmeter/rainmeter
+网盘下载：https://pan.quark.cn/s/4fcbd6881ed6
+官方推荐: https://visualskins.com/
+最受欢迎(DeviantArt): https://www.deviantart.com/rainmeter
+紫色云雾背景图：https://pan.quark.cn/s/a811985d1fd0
+天气组件：https://pan.quark.cn/s/03618c240610
+回收站组件：https://pan.quark.cn/s/57923c042529
+时间组件：https://pan.quark.cn/s/8c45a3591a2e
+包含多种皮肤套装：https://pan.quark.cn/s/ca8440020aee
+
+【宅男福利】视频压缩+格式转换神器！手把手教你用 HandBrake |2025最新教学
+HandBrake 官方网站: https://handbrake.fr/
+网盘下载链接：https://pan.quark.cn/s/b9a7d50b193c
+
+【2025顶级免费投屏神器】Apollo+Artemis/Moonlight零延迟串流，碾压Sunshine，电视/手机/平板/掌机秒变游戏主机！
+Apollo 下载地址：https://github.com/ClassicOldSong/Apollo
+Apollo 安装包网盘下载：https://pan.quark.cn/s/27350dd991a4
+Artemis 下载地址：https://github.com/ClassicOldSong/moonlight-android
+Artemis 安装包网盘下载：https://pan.quark.cn/s/5001ca9da53b
+Moonlight 官网：https://moonlight-stream.org
+Moonlight安装包网盘下载：https://pan.quark.cn/s/bcf41ecf3388
+官网：https://github.com/nefarius/ViGEmBus
+ViGEmBus安装包网盘下载：https://pan.quark.cn/s/6f9c89f220b9
+
+【2025】MPV保姆及教程！免费开源 | 无广告 | 可定制 | 这才是高手该用的播放器...
+MPV官网：https://mpv.io
+GitHub仓库：https://github.com/mpv-player/mpv
+安装包网盘下载：https://pan.quark.cn/s/901b3463bb26
+MPV皮肤ModernZ：https://github.com/Samillion/ModernZ
+MPV皮肤网盘下载：https://pan.quark.cn/s/9f924bd7a990
+MPV皮肤设置文件中文版：https://pan.quark.cn/s/98b62fbc03c0
+皮肤设置官方文档：https://github.com/Samillion/ModernZ/blob/main/docs/USER_OPTS.md#colors-and-style
+MPV进度条缩略图插件：https://pan.quark.cn/s/49728e5cda14
+MPV功能配置文件-懒人整合版：https://pan.quark.cn/s/d6334175e95f
+MPV快捷键-图：https://pan.quark.cn/s/4af5d8aa0f96
+更多脚本：https://github.com/mpv-player/mpv/wiki/User-Scripts
+MPV使用手册：https://mpv.io/manual/master/#interactive-control
+
+【2025】别再“啃生肉”了！免费开源！这个AI视频翻译神器，一键搞定字幕＆配音，让外语视频秒变“中文版”！| pyvideotrans教程
+videotrans官网地址:https://github.com/jianchang512/pyvideotrans
+网盘下载地址：https://pan.quark.cn/s/b4d37e93e1fd
+模型下载地址：https://pyvideotrans.com/model
+faster-large-v3（更精准）模型网盘下载地址：https://pan.quark.cn/s/04365e6c06d7
+faster-large-v3-turbo（速度更快）模型网盘下载地址：https://pan.quark.cn/s/83ef4374950f
+
+【2025】微软官方外挂 PowerToys，让Windows效率炸裂！能顶10个软件，白嫖党狂喜！
+GitHub下载链接： https://github.com/microsoft/PowerToys
+网盘下载链接：https://pan.quark.cn/s/d7f06c518fa5
+PowerToys功能快捷键.png下载：https://pan.quark.cn/s/0660156acb0c
+
+【小in分享】2025最新教程！2款硬字幕提取神器！免费一键识别+翻译，任何视频都能“扒”出字幕，100%免费！
+1.video-subtitle-extractor (VSE) 主页: https://github.com/YaoFANGUK/video-subtitle-extractor
+网盘下载：https://pan.quark.cn/s/1edb30c7d2a6
+2. VideOCR 主页: https://github.com/timminator/VideOCR
+网盘下载：https://pan.quark.cn/s/0c44108fed40
+
+【装机必备】免费开源神器OpenList，把阿里云/百度/夸克等网盘挂载为本地硬盘！搭配RaiDrive，白嫖全网网盘秒变本地D盘！
+1、OpenList官网：https://github.com/OpenListTeam/OpenList
+网盘下载：https://pan.quark.cn/s/b7b9499ace70
+2、RaiDrive官网：https://www.raidrive.com/
+网盘下载：https://pan.quark.cn/s/961d091f9d9b
+3、中文指南：https://docs.oplist.org/zh/guide/
+
+【小in分享】你的声音，我的了！最强AI声音克隆GPT-SoVITS保姆级教学，1分钟拥有任何人的声音|本地部署|离线运行|免费开源
+▶ GPT-SoVITS官网：https://github.com/RVC-Boss/GPT-SoVITS
+▶ 50系显卡整合包：https://pan.quark.cn/s/af8e12a1a446
+▶ 50以下显卡整合包：https://pan.quark.cn/s/68d197c32245
+▶mac版一键整合包：https://pan.quark.cn/s/733245e040f2
+官方推荐的模型分享社区：https://www.ai-hobbyist.com/
+
+比scrcpy更好用！qtscrcpy一键投屏+手机群控全教程|免费|开源|无广
+下载地址：https://github.com/barry-ran/QtScrcpy
+网盘地址：https://pan.quark.cn/s/9ca49c9f232d
+
+【视频高清】最强视频 | 图片转4K8K高清放大神器|Waifu2x-Extension-GUI
+官网下载链接：https://github.com/AaronFeng753/Waifu2x-Extension-GUI
+网盘链接：https://pan.quark.cn/s/16f44106a989?pwd=WPAZ  提取码：WPAZ
+
+【老司机必备】最好用的字幕翻译工具|免费开源|Subtitle Edit 使用教程|PotPlayer、VLC、MPV
+https://www.nikse.dk/subtitleedit
+https://github.com/SubtitleEdit/subtitleedit/releases
+网盘链接：https://pan.quark.cn/s/bb7c982db8ce?pwd=AHkE  提取码：AHkE
+
+Subtitle Edit安装常见问题解决指南
+ffmpeg链接: https://pan.quark.cn/s/383d46841adf?pwd=kD5R  提取码：kD5R
+whisper组件: https://pan.quark.cn/s/a83f1ba0c3ae?pwd=v3Uy  提取码：v3Uy
+语言识别模型: https://pan.quark.cn/s/637cba02fb4f?pwd=KTEA  提取码：KTEA
+NVIDIA显卡CUDA问题：https://pan.quark.cn/s/5f96b9dc172d?pwd=HFMs  提取码：HFMs
+
+【老司机必备】电影视频字幕翻译的秘密大公开！你绝对想不到的2种技巧！
+
+如何给视频制作双语字幕、软字幕、硬字幕、可切换的多语种字幕、KTV字幕|Subtitle Edit
+
+【VLC教程】2024好用视频播放器推荐！这10个技巧让你秒变高手！
+VLC官网：https://www.videolan.org/vlc/
+网盘链接：https://pan.quark.cn/s/957f0652d937?pwd=LGvZ  提取码：LGvZ
+
+【零基础GitHub教学】如何选择适合自己系统的软件安装包
+
+【ffmpeg】2024普通人不会代码轻松学会ffmpeg，从下载到操作，一看就会！
+访问 FFmpeg 官网：https://ffmpeg.org
+网盘链接：https://pan.quark.cn/s/9726e1febe92?pwd=b58c  提取码：b58c
+
+【upscayl】开源免费！2024最新版！最好用的一键获得4K高清图片、视频修复AI工具
+下载 Upscayl：https://github.com/upscayl/upscayl/releases/tag/v2.11.5
+访问 Upscayl 官网：https://upscayl.org/download
+网盘链接：https://pan.quark.cn/s/d412b05931c4?pwd=kr26  提取码：kr26
+
+【零基础GitHub教学】普通人不会代码，如何在GitHub上查找下载资源

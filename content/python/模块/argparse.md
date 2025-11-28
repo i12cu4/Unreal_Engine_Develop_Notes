@@ -53,16 +53,32 @@ help 中的 %(default)s 会自动替换为默认值
 
 点奶茶.py(文件中...)
 ```python
+import argparse
+
 parser = argparse.ArgumentParser(description='点奶茶系统')
-parser.add_argument('口味', help='选择奶茶口味')          # 必须选的口味
-parser.add_argument('-甜度', default='正常糖', help='选择甜度') # 可选参数
-parser.add_argument('-冰量', default='少冰', help='选择冰量')  # 可选参数
+parser.add_argument('口味', help='选择奶茶口味')          # 位置参数（必须提供）
+parser.add_argument('-甜度', '--sweetness', default='正常糖', help='选择甜度') # 可选参数
+parser.add_argument('-冰量', '--ice', default='少冰', help='选择冰量')  # 可选参数
+
+args = parser.parse_args()
+
+print(f"您点了：{args.口味}（甜度：{args.甜度}，冰量：{args.冰量}）")
 ```
 输入输出
 ```
-# 用户输入
-python 点奶茶.py 珍珠奶茶 -甜度 半糖
+# 基本用法（只提供必须的口味参数）
+python 点奶茶.py 珍珠奶茶
+# 输出：您点了：珍珠奶茶（甜度：正常糖，冰量：少冰）
 
-# 输出结果
-您点了：珍珠奶茶（甜度：半糖，冰量：少冰）
+# 提供可选参数
+python 点奶茶.py 珍珠奶茶 -甜度 半糖
+# 输出：您点了：珍珠奶茶（甜度：半糖，冰量：少冰）
+
+# 提供所有参数
+python 点奶茶.py 珍珠奶茶 -甜度 无糖 -冰量 去冰
+# 输出：您点了：珍珠奶茶（甜度：无糖，冰量：去冰）
+
+# 使用长参数名
+python 点奶茶.py 珍珠奶茶 --sweetness 微糖 --ice 正常冰
+# 输出：您点了：珍珠奶茶（甜度：微糖，冰量：正常冰）
 ```

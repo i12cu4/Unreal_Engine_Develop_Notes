@@ -1,0 +1,209 @@
+【视频标题】: UE5 Path Tracer Toolkit 样条线蓝图路径资源分享
+【发布时间】: 2025-07-12
+【视频BV号】: BV1zmMQzDEtz
+【视频简介】: 通过网盘分享的文件：Path Tracer Toolkit
+链接: https://pan.baidu.com/s/1414DSKuFqZMnvR1IjPMIlw?pwd=8xkn 提取码: 8xkn 
+--来自百度网盘超级会员v7的分享
+
+==================================================
+
+【视频标题】: UE5 Fluid Flux 水流海洋湖泊蓝图资源分享
+【发布时间】: 2025-07-10
+【视频BV号】: BV1jRGgzzEcr
+【视频简介】: 功能:实时浅水模拟-流体数据修改器、波浪生成器和可扩展界面
+，流体表面渲染-焦散、湿润、水下、水线、随流泡沫、随流波浪、与海洋的融合、动态音频检测。
+流体交互-简单廉价的波纹求解器随角色移动，优化到绝对最小。
+海洋波浪混合--在单通道中渲染可耕种的海洋高度图纹理。
+Niagara环境交互--高质量效果、弹跳植物、动画角色游泳和船只。
+干净、高效、GPU友好的实现，界面设计遵循KISS(简单就是美)原则。
+·小巧、紧凑且低内存占用。
+·生成超快速静态网格的工具，流场映射烘焙到顶点颜色中。
+高级流体状态管理。
+·用于在蓝图中采样高度和流体流动的Niagara流体异步回读系统。
+。动态音频分析器。声音源根据流体运动定位。
+.四个示例地图-海滩、岛屿、河流和烘焙静态河流。
+使用基于速度的流体流动对流方法处理泡沫、焦散和波浪。
+水体横截面渲染基于波浪轮廓技术的大型非模拟海岸线(最大可达10x10公里)和基于波浪破碎的技术。
+基于Niagara的无限网格渲染。
+水彩呈现、高级散射设置和画笔绘制。
+基于SLW材料模式的水下，可随时间变化。
+独特的水下体积玻璃系统
+通过网盘分享的文件：Fluid Flux
+链接: https://pan.baidu.com/s/1kdXDupV8sI1Rcvogl8Dppw?pwd=4iic 提取码: 4iic 
+--来自百度网盘超级会员v7的分享
+
+==================================================
+
+【视频标题】: UE5 Brushify SmartBrush System 地形编辑工具资源分享
+【发布时间】: 2025-07-10
+【视频BV号】: BV1LRGgzzESA
+【视频简介】: 描述
+注意:必须启用Landmass插件才能使此产品正常工作。Landmass在2048x2048及更低分辨率的景观上效果最佳。
+该套件将所有现有的Brushify Alpha画笔和距离网格打包成一个统一的产品，并附带示例级别。它包含了多达20GB+的逼真Brushify 8kAlpha画笔和距离网格。此外，它还附带一个名为SmartBrush的复杂陆地基蓝图系统，使您能够实时进行非破坏性地形编辑。
+通过网盘分享的文件：Brushify SmartBrush System
+链接: https://pan.baidu.com/s/100yL1H9nu0Deso57mpV6Ow?pwd=k9it 提取码: k9it 
+--来自百度网盘超级会员v7的分享
+
+==================================================
+
+【视频标题】: UE5 Magic Map Material & Maker (M4) 程序化工具资源分享
+【发布时间】: 2025-07-08
+【视频BV号】: BV1p7Gnz1Ekx
+【视频简介】: Magic Map Material & Maker （M⁴）以电影般的品质和易用性制作而成。它是一个地形工具包，用于任何虚幻引擎景观，并利用最新的技术，以实现生产准备的结果在一小部分时间。只需从任何来源（胡迪尼，世界创造者2，世界机器等）加载高度图，在编辑器内开始雕刻，或使用包含的地形生成器和M⁴自动材料将立即应用大量的细节到您的世界。
+通过网盘分享的文件：Magic Map Material & Maker (M4)
+链接: https://pan.baidu.com/s/1Xcc-Y3b0-mISzcwT-8rBVg?pwd=aqvi 提取码: aqvi 
+--来自百度网盘超级会员v7的分享
+
+==================================================
+
+【视频标题】: UE5 Ultra Dynamic Sky动态天空资源分享
+【发布时间】: 2025-07-07
+【视频BV号】: BV1vG31zwEwb
+【视频简介】: 超动态天空是一个天空系统，设计得比大多数天空解决方案更动态和自然，提供了很大程度的灵活性和自定义选项，界面设计的速度和简单性。
+通过网盘分享的文件：Ultra Dynamic Sky
+链接: https://pan.baidu.com/s/1IwM9wQ96oRv-Eq-6F-Et3g?pwd=tegn 提取码: tegn 
+--来自百度网盘超级会员v7的分享
+
+==================================================
+
+【视频标题】: UE5 Holo-Gen Hologram Creator System 全息投影蓝图材质资源分享
+【发布时间】: 2025-07-14
+【视频BV号】: BV1iYuezcEMM
+【视频简介】: 通过网盘分享的文件：Holo-Gen Hologram Creator System
+链接: https://pan.baidu.com/s/1HuLKLuHCNCNFabLyDFY3AA?pwd=hx3d 提取码: hx3d 
+--来自百度网盘超级会员v7的分享
+
+==================================================
+
+【视频标题】: UE5 EasyRain 简易下雨暴雨蓝图资源分享
+【发布时间】: 2025-07-14
+【视频BV号】: BV1BtuezeEFx
+【视频简介】: 通过网盘分享的文件：EasyRain
+链接: https://pan.baidu.com/s/1p-ce71htLRIswjnk9rsBvQ?pwd=qi6g 提取码: qi6g 
+--来自百度网盘超级会员v7的分享
+
+==================================================
+
+【视频标题】: UE5 Lightning Fast 闪电雷击交互特效蓝图资源分享
+【发布时间】: 2025-07-19
+【视频BV号】: BV1dsuXzEEyp
+【视频简介】: 通过网盘分享的文件：Lightning Fast
+链接: https://pan.baidu.com/s/1bP38wL0HcRvAuTvh0Hig9g?pwd=5qw7 提取码: 5qw7 
+--来自百度网盘超级会员v7的分享
+
+==================================================
+
+【视频标题】: UE5 Map Border Collection 数字孪生区域边界分界线资源分享
+【发布时间】: 2025-07-19
+【视频BV号】: BV1dsuXzEEhn
+【视频简介】: 通过网盘分享的文件：Map Border Collection
+链接: https://pan.baidu.com/s/16O3yl4NwIT-hbV6URKUROA?pwd=wk4y 提取码: wk4y 
+--来自百度网盘超级会员v7的分享
+
+==================================================
+
+【视频标题】: UE5 Procedural Road 道路自动化生成工具资源分享
+【发布时间】: 2025-07-19
+【视频BV号】: BV1dsuXzEELY
+【视频简介】: 通过网盘分享的文件：Procedural Road And Highway Tool With Simple Vehicle Traffic
+链接: https://pan.baidu.com/s/1j1OVODqCMEBrJEy-afNdrg?pwd=cki5 提取码: cki5 
+--来自百度网盘超级会员v7的分享
+
+==================================================
+
+【视频标题】: UE5 Runtime Gizmo (Transform Tool) 移动旋转缩放工具蓝图资源分享
+【发布时间】: 2025-07-22
+【视频BV号】: BV1YrgJzpELY
+【视频简介】: 通过网盘分享的文件：Runtime Gizmo (Transform Tool)
+链接: https://pan.baidu.com/s/1ybB3aB1aammq7c-pcVA9PQ?pwd=vmca 提取码: vmca 
+--来自百度网盘超级会员v7的分享
+
+==================================================
+
+【视频标题】: UE5 Grid-Based Builder 网格吸附摆放建筑蓝图资源分享
+【发布时间】: 2025-07-22
+【视频BV号】: BV1GrgJzpEss
+【视频简介】: 通过网盘分享的文件：Grid-Based Builder
+链接: https://pan.baidu.com/s/1lYwhpc5cMld2aD0N7IT_Cw?pwd=9cfr 提取码: 9cfr 
+--来自百度网盘超级会员v7的分享
+
+==================================================
+
+【视频标题】: UE5 Inventory + Item System 背包物品库存蓝图资源分享
+【发布时间】: 2025-07-24
+【视频BV号】: BV1Xj8MzBE8L
+【视频简介】: 通过网盘分享的文件：Inventory + Item System
+链接: https://pan.baidu.com/s/1meAK8TwS25DUtBUe9UzxXQ?pwd=8888 提取码: 8888 
+--来自百度网盘超级会员v7的分享
+
+==================================================
+
+【视频标题】: UE5 Generic Futuristic Concept Drivable Car未来概念汽车资源分享
+【发布时间】: 2025-07-24
+【视频BV号】: BV1Xj8MzBEvT
+【视频简介】: 通过网盘分享的文件：Generic Futuristic Concept Drivable Car.zip
+链接: https://pan.baidu.com/s/1MEEg_3SQmQyb5p_U-NPYvQ?pwd=8888 提取码: 8888 
+--来自百度网盘超级会员v7的分享
+
+==================================================
+
+【视频标题】: UE5 Pipe System Pack 自动化管道蓝图资源分享
+【发布时间】: 2025-07-24
+【视频BV号】: BV19j8MzBEpD
+【视频简介】: 通过网盘分享的文件：Pipe System Pack
+链接: https://pan.baidu.com/s/1TjbRe335i02SuJyHzMEfsw?pwd=8888 提取码: 8888 
+--来自百度网盘超级会员v7的分享
+
+==================================================
+
+【视频标题】: UE5 Next Gen Destruction Toolkit 次世代毁灭破坏组件资源分享
+【发布时间】: 2025-07-29
+【视频BV号】: BV1t889z4E52
+【视频简介】: 通过网盘分享的文件：Next Gen Destruction Toolkit
+链接: https://pan.baidu.com/s/19Ij0GfNHpNqH6akTI1UqOA?pwd=8888 提取码: 8888 
+--来自百度网盘超级会员v7的分享
+
+==================================================
+
+【视频标题】: UE5 Spline: Ropes - Hoses - Sci-fi 绳子绳索软管样条蓝图资源分享
+【发布时间】: 2025-07-29
+【视频BV号】: BV1t889z4EgG
+【视频简介】: 通过网盘分享的文件：Spline Ropes Hoses Sci fi
+链接: https://pan.baidu.com/s/1XzfzsYmFG64GLLgPtgtKHw?pwd=8888 提取码: 8888 
+--来自百度网盘超级会员v7的分享
+
+==================================================
+
+【视频标题】: UE5 Conveyor System 传送带轨道智能仓库系统分享
+【发布时间】: 2025-07-29
+【视频BV号】: BV1t889z4Eio
+【视频简介】: 通过网盘分享的文件：Conveyor System
+链接: https://pan.baidu.com/s/1P6lfQ7K0H63hHwYacwOqwA?pwd=8888 提取码: 8888 
+--来自百度网盘超级会员v7的分享
+
+==================================================
+
+【视频标题】: UE5 Multiplayer Single player Aircraft Battle System V2多人战斗机框架资源分享
+【发布时间】: 2025-08-01
+【视频BV号】: BV1EqhJzmEF9
+【视频简介】: 通过网盘分享的文件：Multiplayer & Single player Aircraft Battle System V2
+链接: https://pan.baidu.com/s/1K8vTsGdsi5M-wl3FTc59pA?pwd=8888 提取码: 8888 
+--来自百度网盘超级会员v7的分享
+
+==================================================
+
+【视频标题】: UE5 Nimbus Cloud Mount 筋斗云坐骑蓝图资源分享
+【发布时间】: 2025-08-01
+【视频BV号】: BV17qhJzmEki
+【视频简介】: 通过网盘分享的文件：Nimbus Cloud Mount
+链接: https://pan.baidu.com/s/1zN8D58sNk48SFijEMv2FfQ?pwd=8888 提取码: 8888 
+--来自百度网盘超级会员v7的分享
+
+==================================================
+
+【视频标题】: UE5 Quick Cloud 电影级VDB体积云雾气蓝图资源分享
+【发布时间】: 2025-08-01
+【视频BV号】: BV1qqhJzmEmq
+【视频简介】: 通过网盘分享的文件：Quick Cloud快速云
+链接: https://pan.baidu.com/s/1-UD7QfauRaZ2MMLAaFowQA?pwd=8888 提取码: 8888 
+--来自百度网盘超级会员v7的分享
