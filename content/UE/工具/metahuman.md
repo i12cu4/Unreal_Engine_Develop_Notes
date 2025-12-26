@@ -54,3 +54,5 @@ Make sure to download and install the Bridge plugin for the respective program y
 By following these steps, you should be able to use Metahumans from Bridge in Unreal Engine 4 without compatibility issues.
 
 ```
+
+注意:目前发现metahuman(及其相关插件)并不支持移动端打包使用(UE5.6)
