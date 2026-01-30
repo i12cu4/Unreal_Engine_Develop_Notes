@@ -86906,7 +86906,7 @@ delete_patterns = ["Saved", "Intermediate", "Build", "Binaries", ".vs", ".svn", 
                    "UE4资源安装说明.txt","免责声明【必看】.txt","  UE多个高质量写实风景地貌场景模型_-传奇素材包-素材说明.txt",
                    "UE4库文件使用教程.docx"]
 silent_mode = True  # 静默模式开关
-REPORT_TYPE = "both"  # 报告类型: console/csv/both
+REPORT_TYPE = "console"  # 报告类型: console/csv/both
 # ======================================================
 
 ResultItem = namedtuple('ResultItem', ['rar_path', 'success', 'deleted_count', 'error_msg', 'patterns'])
