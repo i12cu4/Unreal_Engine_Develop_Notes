@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 酷狗音乐解密工具
 """

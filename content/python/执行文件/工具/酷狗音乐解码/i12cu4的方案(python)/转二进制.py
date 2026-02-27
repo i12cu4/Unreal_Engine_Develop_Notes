@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 酷狗公钥提取器 - 极度简化版本
 仅生成一个包含KUGOU_KEY_XZ_HEX变量的.py文件
