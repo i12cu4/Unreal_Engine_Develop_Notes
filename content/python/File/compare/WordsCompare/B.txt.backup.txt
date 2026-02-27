@@ -1,0 +1,31 @@
+UATHelper: 打包 (Windows): --------------------Build System Warning---------------------------------------
+UATHelper: 打包 (Windows): 1 build system warning(s):
+UATHelper: 打包 (Windows): LogAssetEditorSubsystem: Warning: Something went wrong while loading recent assets! Num Recent Assets  = 6, Num Recent Asset Editors = 5
+PackagingResults: Warning: Something went wrong while loading recent assets! Num Recent Assets  = 6, Num Recent Asset Editors = 5
+UATHelper: 打包 (Windows): LogText: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/Core/FarmingSystem/Blueprints/BP_Farming_Abstract may fix issue.
+PackagingResults: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/Core/FarmingSystem/Blueprints/BP_Farming_Abstract may fix issue.
+UATHelper: 打包 (Windows): LogText: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/Core/FarmingSystem/Blueprints/BP_Farming_Abstract may fix issue.
+UATHelper: 打包 (Windows): LogText: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/BuildingSystem/Save/Struct_Saved_Buildables may fix issue.
+UATHelper: 打包 (Windows): LogText: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/BuildingSystem/Save/Struct_Saved_Buildables may fix issue.
+UATHelper: 打包 (Windows): LogText: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/BuildingSystem/Save/Struct_Saved_Buildables may fix issue.
+PackagingResults: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/Core/FarmingSystem/Blueprints/BP_Farming_Abstract may fix issue.
+PackagingResults: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/BuildingSystem/Save/Struct_Saved_Buildables may fix issue.
+PackagingResults: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/BuildingSystem/Save/Struct_Saved_Buildables may fix issue.
+PackagingResults: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/BuildingSystem/Save/Struct_Saved_Buildables may fix issue.
+UATHelper: 打包 (Windows): LogText: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/BuildingSystem/Save/Struct_Saved_Buildables may fix issue.
+PackagingResults: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/BuildingSystem/Save/Struct_Saved_Buildables may fix issue.
+UATHelper: 打包 (Windows): LogText: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/Core/AbilitySystem/Datamodel/Structures/Struct_Active_Ability may fix issue.
+PackagingResults: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/Core/AbilitySystem/Datamodel/Structures/Struct_Active_Ability may fix issue.
+UATHelper: 打包 (Windows): LogText: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/Core/AbilitySystem/Datamodel/Structures/Struct_Active_Ability may fix issue.
+PackagingResults: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/Core/AbilitySystem/Datamodel/Structures/Struct_Active_Ability may fix issue.
+UATHelper: 打包 (Windows): LogText: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/Core/FarmingSystem/Datamodel/Structures/Struct_Plant may fix issue.
+PackagingResults: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/Core/FarmingSystem/Datamodel/Structures/Struct_Plant may fix issue.
+UATHelper: 打包 (Windows): LogText: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/Core/FarmingSystem/Datamodel/Structures/Struct_Plant may fix issue.
+PackagingResults: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/Core/FarmingSystem/Datamodel/Structures/Struct_Plant may fix issue.
+UATHelper: 打包 (Windows): LogInit: Display: Warning/Error Summary (Unique only)
+UATHelper: 打包 (Windows): LogInit: Display: LogAssetEditorSubsystem: Warning: Something went wrong while loading recent assets! Num Recent Assets  = 6, Num Recent Asset Editors = 5
+UATHelper: 打包 (Windows): LogInit: Display: LogText: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/Core/FarmingSystem/Blueprints/BP_Farming_Abstract may fix issue.
+UATHelper: 打包 (Windows): LogInit: Display: LogText: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/BuildingSystem/Save/Struct_Saved_Buildables may fix issue.
+UATHelper: 打包 (Windows): LogInit: Display: LogText: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/Core/AbilitySystem/Datamodel/Structures/Struct_Active_Ability may fix issue.
+UATHelper: 打包 (Windows): LogInit: Display: LogText: Warning: Saving FText "" which has been initialized from FString at cook time resave of source package /Game/Hyper/Core/FarmingSystem/Datamodel/Structures/Struct_Plant may fix issue.
+UATHelper: 打包 (Windows): LogInit: Display: Success - 0 error(s), 11 warning(s)

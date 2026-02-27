@@ -1,0 +1,4 @@
+PackagingResults: Warning: Something went wrong while loading recent assets! Num Recent Assets  = 6, Num Recent Asset Editors = 5
+UATHelper: 打包 (Windows): LogAssetEditorSubsystem: Warning: Something went wrong while loading recent assets! Num Recent Assets  = 6, Num Recent Asset Editors = 5
+UATHelper: 打包 (Windows): LogInit: Display: LogAssetEditorSubsystem: Warning: Something went wrong while loading recent assets! Num Recent Assets  = 6, Num Recent Asset Editors = 5
+UATHelper: 打包 (Windows): LogInit: Display: Success - 0 error(s), 11 warning(s)
