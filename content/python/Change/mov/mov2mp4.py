@@ -8,7 +8,7 @@ def convert_mov_to_mp4():
     """
     # 使用变量定义路径
     input_folder = r"D:\MV"  # 请替换为你的MOV文件文件夹路径
-    ffmpeg_path = r"C:\Program File\ffmpeg-master-latest-win64-gpl\bin\ffmpeg.exe"    # 请替换为你的FFmpeg可执行文件路径
+    ffmpeg_path = r"C:\Program File\ffmpeg\bin\ffmpeg.exe"    # 请替换为你的FFmpeg可执行文件路径
     
     # 支持的MOV文件扩展名（包括大小写变体）
     mov_extensions = ['.mov', '.MOV']
