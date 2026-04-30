@@ -2197,6 +2197,8 @@ B Rotator
 <summary>Set Array Elem</summary>
 <pre><code>
 设置数组元素(矩阵)
+
+倘若赋值数组比被赋值数组更长可设置Size to Fit延长
 </code></pre>
 </details>
 

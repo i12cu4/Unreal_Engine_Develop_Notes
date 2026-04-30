@@ -11,6 +11,36 @@ import tempfile
 import shutil
 import base64
 
+# 自动检测并安装 tqdm 库
+import subprocess
+import sys
+
+def ensure_tqdm():
+    """检测 tqdm 库，如果缺失则自动安装"""
+    try:
+        from tqdm import tqdm
+        return tqdm
+    except ImportError:
+        print("检测到缺少 tqdm 库，正在自动安装...")
+        try:
+            subprocess.check_call([sys.executable, "-m", "pip", "install", "tqdm"])
+            print("安装成功！正在重新导入...")
+            from tqdm import tqdm
+            return tqdm
+        except Exception as e:
+            print(f"自动安装失败: {e}")
+            print("请手动运行以下命令安装：pip install tqdm")
+            print("\n按任意键退出...")
+            if sys.platform.startswith('win'):
+                import msvcrt
+                msvcrt.getch()
+            else:
+                input()
+            sys.exit(1)
+
+# 获取 tqdm 函数（确保已可用）
+tqdm = ensure_tqdm()
+
 # ===================== 嵌入式二进制数据 =====================
 BIN_7Z = """\
 TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\
@@ -135395,22 +135425,21 @@ def main():
             
             # 使用进度条处理每个文件
             success_count = 0
-            total = len(all_files)
-            for idx, file_path in enumerate(all_files, start=1):
-                base_name = os.path.basename(file_path)
-                print(f"[{idx}/{total}] 正在处理: {base_name[:50]}")
-                
-                # 处理文件
-                success, message = process_file(file_path, tools_manager)
-                
-                # 处理结果
-                if success:
-                    if "成功" in message:
-                        success_count += 1
-                    print(f"[✓] {message}")
-                else:
-                    print(f"[✕] {message}")
-                print()  # 输出一个空行，使结果更清晰
+            with tqdm(all_files, desc="转换进度", unit="file", colour="blue") as pbar:
+                for file_path in pbar:
+                    base_name = os.path.basename(file_path)
+                    pbar.set_postfix(file=base_name[:20])  # 显示前20个字符
+                    
+                    # 处理文件
+                    success, message = process_file(file_path, tools_manager)
+                    
+                    # 处理结果
+                    if success:
+                        if "成功" in message:
+                            success_count += 1
+                        pbar.write(f"[✓] {message}")
+                    else:
+                        pbar.write(f"[✕] {message}")
             
             # 输出统计信息
             print(f"\n处理完成！成功转换 {success_count}/{len(all_files)} 个文件")
