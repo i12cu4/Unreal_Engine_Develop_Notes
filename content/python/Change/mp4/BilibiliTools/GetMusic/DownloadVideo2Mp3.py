@@ -10,7 +10,7 @@ import subprocess
 # 下载路径 https://ffmpeg.org/download.html#get-packages
 FFMPEG_PATH = r"C:\Program File\ffmpeg\bin\ffmpeg.exe"  # 替换为你的ffmpeg.exe绝对路径
 FFPROBE_PATH = r"C:\Program File\ffmpeg\bin\ffprobe.exe"  # 替换为你的ffprobe.exe绝对路径
-SAVE_PATH = r"C:\Users\chru\Desktop\1"  # 可以修改为任意路径
+SAVE_PATH = r"C:\Users\Admin\Desktop"  # 可以修改为任意路径
 
 class BilibiliVideoDownloader:
     def __init__(self, save_path="./downloads"):
